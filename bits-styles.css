@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Karma Suture; /* Имя шрифта */
+    src: url(fonts/12234.ttf); /* Путь к файлу со шрифтом */
+   }
+
+* {
+    font-family: 'Karma Suture', cursive;
+}
+
+.bitblock {
+    text-align: center;
+    width: 10%;
+    background-color: #fafafa;
+    float: left;
+    font-size: 6vw;
+}
+
+.bitblock a:link {
+    color: #e8308c;
+    text-decoration: none;
+}
+
+.bitblock a:hover {
+    color: #e8308c;
+    text-decoration: none;
+}
+
+.bitblock a:visited {
+    color: #3080e8;
+    text-decoration: none;
+}
+
+.headers {
+    font-size: 2rem;
+}
