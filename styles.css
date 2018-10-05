@@ -1,56 +1,37 @@
-.header {
-    height: 300px;
-}
-
-.bit {
-    text-align: center;
-    width: 10%;
-    background-color: #fafafa;
-    float: left;
-    font-size: 6vw;
-}
-
-.bit a:link {
-    color: #e8308c;
-    text-decoration: none;
-}
-
-.bit a:hover {
-    color: #e8308c;
-    text-decoration: none;
-}
-
-.bit a:visited {
-    color: #3080e8;
-    text-decoration: none;
-}
 .section {
     background-color: #ed521a;
     padding: 15px;
     text-align: center;
-    margin: 10px;
-    margin-bottom: 20px;
+    margin: 10px 10px 0px 10px;
     border-radius: 10px;
     color: #f0f0f0;
 }
 .textsection {
     background-color: #cdcdcd;
-    padding: 15px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
-    margin: 10px;
-    margin-top: 0px;
-    margin-bottom: 20px;
+    margin: 0px 10px 20px 10px;
     border-radius: 10px;
     color: #f0f0f0;
+}
+.shapka {
+  background-color: #1d1d24;
+  padding: 15px;
+  text-align: left;
+  color: #d9d9d9;
 }
 p {
   color: #020212;
   white-space: pre-line;
-  font-size: 18pt;
-  text-align: left;
-  padding-left: 10%;
-  padding-right: 10%;
+  font-size: 130%;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 span {
    padding-left:20px;
+}
+hh {
+  font-size: 200%;
 }
