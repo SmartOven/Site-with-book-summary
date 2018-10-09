@@ -3,7 +3,7 @@
     padding: 15px;
     text-align: center;
     margin: 10px 10px 0px 10px;
-    border-radius: 10px;
+    border-radius: 12px;
     color: #f0f0f0;
 }
 .textsection {
@@ -21,11 +21,19 @@
   text-align: left;
   color: #d9d9d9;
 }
+.zagol {
+  background-color: #424242;
+  padding: 15px;
+  text-align: left;
+  color: #d9d9d9;
+  border-radius: 8px;
+}
 p {
   color: #020212;
   white-space: pre-line;
   font-size: 130%;
-  text-align: center;
+  text-align: left;
+  padding-top: 10px;
   padding-left: 5%;
   padding-right: 5%;
 }
@@ -33,5 +41,12 @@ span {
    padding-left:20px;
 }
 hh {
-  font-size: 200%;
+  font-size: 210%;
+}
+hh1 {
+  font-size: 190%;
+  text-align: left;
+  padding: 0%;
+  border-radius: 10px;
+  margin: 0px;
 }
